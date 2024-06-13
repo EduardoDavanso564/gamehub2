@@ -1,0 +1,37 @@
+.navbar {
+  background: #222;
+}
+.navbar .navbar-brand img {
+  height: 60px;
+}
+.navbar .nav-link {
+  font: 22px "Jersey 25", Inter, Arial;
+  color: #FFF;
+  text-transform: uppercase;
+}
+.navbar .nav-link:hover {
+  color: #0DCAF0;
+}
+.navbar .navbar-nav .nav-link.show {
+  color: #0DCAF0;
+}
+.navbar .dropdown-menu {
+  background: #222;
+  border-radius: 0;
+  border-top: 5px solid #0DCAF0;
+}
+.navbar .dropdown-menu .dropdown-item {
+  font: 20px "Jersey 25", Inter, Arial;
+  text-transform: uppercase;
+  color: #0DCAF0;
+}
+.navbar .btn {
+  margin-left: 5px;
+}
+
+.btn {
+  font: 20px "Jersey 25", Inter, Arial;
+  border-radius: 0;
+}
+
+/*# sourceMappingURL=style.css.map */
